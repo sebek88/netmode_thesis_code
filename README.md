@@ -1,2 +1,2 @@
 # netmode_thesis_code
-code for SDN with Hyperledger Fabric Thesis
+Thesis code - SDN with Hyperledger Fabric
